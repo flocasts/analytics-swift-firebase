@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name             = 'SegmentFirebase'
     s.module_name      = 'SegmentFirebase'
-    s.version          = '1.0.3'
+    s.version          = '1.0.5'
     s.summary          = 'Segment SDK for adding device mode plugin support for Firebase'
     s.homepage         = 'https://github.com/flocasts/analytics-swift-firebase'
     s.license          = { :type => 'MIT', :file => './LICENSE' }
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     s.swift_version = '5.0'
     s.source_files = 'Sources/**/*'
     s.dependency 'Segment', '~> 1.4.7'
-    s.dependency 'FirebaseAnalytics', '~> 10.0.0'
+    s.dependency 'FirebaseAnalytics', '~> 11.0.0'
   end
