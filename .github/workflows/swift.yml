@@ -23,7 +23,7 @@ jobs:
       with:
         xcode-version: latest-stable
     - uses: actions/checkout@v2
-    - uses: actions/cache@v2
+    - uses: actions/cache@v3
       with:
         path: /Users/runner/Library/Developer/Xcode/DerivedData
         key: ${{ runner.os }}-spm-examples-${{ hashFiles('**/Package.resolved') }}
