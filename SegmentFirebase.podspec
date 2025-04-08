@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     s.swift_version = '5.0'
     s.source_files = 'Sources/**/*'
     s.dependency 'Segment', '~> 1.4.7'
-    s.dependency 'FirebaseAnalytics', '~> 11.0.0'
+    s.dependency 'FirebaseAnalytics', '~> 11.2.0'
   end
