@@ -28,7 +28,7 @@ let package = Package(
 		.package(
 			name: "Firebase",
 			url: "https://github.com/firebase/firebase-ios-sdk",
-			from: "11.2.0"
+			from: "11.15.0"
 		)
     ],
     targets: [

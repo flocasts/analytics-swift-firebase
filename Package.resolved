@@ -33,8 +33,17 @@
         "repositoryURL": "https://github.com/firebase/firebase-ios-sdk",
         "state": {
           "branch": null,
-          "revision": "d1f7c7e8eaa74d7e44467184dc5f592268247d33",
-          "version": "11.11.0"
+          "revision": "fdc352fabaf5916e7faa1f96ad02b1957e93e5a5",
+          "version": "11.15.0"
+        }
+      },
+      {
+        "package": "GoogleAdsOnDeviceConversion",
+        "repositoryURL": "https://github.com/googleads/google-ads-on-device-conversion-ios-sdk",
+        "state": {
+          "branch": null,
+          "revision": "428d8bb138e00f9a3f4f61cc6cd8863607524f65",
+          "version": "2.1.0"
         }
       },
       {
@@ -42,8 +51,8 @@
         "repositoryURL": "https://github.com/google/GoogleAppMeasurement.git",
         "state": {
           "branch": null,
-          "revision": "dd89fc79a77183830742a16866d87e4e54785734",
-          "version": "11.11.0"
+          "revision": "45ce435e9406d3c674dd249a042b932bee006f60",
+          "version": "11.15.0"
         }
       },
       {
@@ -60,8 +69,8 @@
         "repositoryURL": "https://github.com/google/GoogleUtilities.git",
         "state": {
           "branch": null,
-          "revision": "53156c7ec267db846e6b64c9f4c4e31ba4cf75eb",
-          "version": "8.0.2"
+          "revision": "60da361632d0de02786f709bdc0c4df340f7613e",
+          "version": "8.1.0"
         }
       },
       {
