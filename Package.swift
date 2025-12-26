@@ -7,8 +7,8 @@ let package = Package(
     name: "SegmentFirebase",
     platforms: [
         .macOS("10.15"),
-        .iOS("16.0"),
-        .tvOS("16.0"),
+        .iOS("15.0"),
+        .tvOS("15.0"),
         .watchOS("7.1")
     ],
     products: [
